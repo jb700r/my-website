@@ -1,0 +1,22 @@
+body{
+    background-color:#B7B7A4 ;
+    padding-bottom: 70px; 
+}
+#nav{
+    background-color: #283618;
+    color: #B7B7A4;
+    text-decoration: none;
+    text-align: center;
+    height: 56px;
+}
+main{
+    background-color: #D4D4D4;
+    color: #283618;
+}
+a{
+    color: #283618;
+    text-decoration: none;
+}
+a:hover{
+    color: #283618;
+}
